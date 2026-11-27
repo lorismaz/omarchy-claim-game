@@ -2,6 +2,8 @@
 
 A territory-claiming arcade game for [Omarchy](https://omarchy.org)'s Game Vibes. Cut lines across the field, close them to raise the land as cubes, and fence off 75% to clear the level without letting the wisp touch your line.
 
+![Claim mid-level](docs/screenshot.png)
+
 ## Install
 
 ```bash
